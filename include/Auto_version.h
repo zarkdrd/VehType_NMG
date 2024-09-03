@@ -1,0 +1,3 @@
+#define VER_AUTO 1
+#define VERSION "V1.01"
+#define COMPILEDATE "2024-08-29 15:33"
